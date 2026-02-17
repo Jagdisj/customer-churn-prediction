@@ -104,6 +104,6 @@ SHAP was used to:
 ## ⚙ Installation
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/jagdishj/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
