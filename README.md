@@ -107,3 +107,32 @@ SHAP was used to:
 git clone https://github.com/jagdishj/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
+
+## 📊 Model Performance
+
+### ROC Curve
+<img width="678" height="520" alt="Screenshot 2026-02-17 111254" src="https://github.com/user-attachments/assets/63d3e916-9032-46c4-8b3f-a2c3399a309b" />
+
+
+### Precision-Recall Curve
+****<img width="678" height="520" alt="Screenshot 2026-02-17 111254" src="https://github.com/user-attachments/assets/aed2a25b-98c1-4635-b00a-7c72ac6a8362" />
+
+
+---
+
+## 🔍 Feature Importance
+
+<img width="986" height="661" alt="Screenshot 2026-02-17 111307" src="https://github.com/user-attachments/assets/8322be4e-8219-4464-9feb-b7408b92d79d" />
+
+
+---
+
+## 🧠 Model Explainability (SHAP)
+
+### SHAP Summary Plot
+<img width="681" height="348" alt="Screenshot 2026-02-17 111502" src="https://github.com/user-attachments/assets/34728ef2-d643-4090-9fd1-898a3825461c" />
+
+
+### SHAP Force Plot (Single Customer)
+<img width="681" height="348" alt="Screenshot 2026-02-17 111502" src="https://github.com/user-attachments/assets/9944217e-b5c8-4071-a173-0bbac745ad84" />
+
