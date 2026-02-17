@@ -101,13 +101,6 @@ SHAP was used to:
 
 ---
 
-## ⚙ Installation
-
-```bash
-git clone https://github.com/jagdishj/customer-churn-prediction.git
-cd customer-churn-prediction
-pip install -r requirements.txt
-
 ## 📊 Model Performance
 
 ### ROC Curve
@@ -136,3 +129,11 @@ pip install -r requirements.txt
 ### SHAP Force Plot (Single Customer)
 <img width="681" height="348" alt="Screenshot 2026-02-17 111502" src="https://github.com/user-attachments/assets/9944217e-b5c8-4071-a173-0bbac745ad84" />
 
+
+
+## ⚙ Installation
+
+```bash
+git clone https://github.com/jagdishj/customer-churn-prediction.git
+cd customer-churn-prediction
+pip install -r requirements.txt
