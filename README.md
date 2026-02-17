@@ -108,7 +108,8 @@ SHAP was used to:
 
 
 ### Precision-Recall Curve
-****<img width="678" height="520" alt="Screenshot 2026-02-17 111254" src="https://github.com/user-attachments/assets/aed2a25b-98c1-4635-b00a-7c72ac6a8362" />
+<img width="813" height="610" alt="Screenshot 2026-02-17 110959" src="https://github.com/user-attachments/assets/32c57c79-f912-453a-9c28-7a07ee820836" />
+
 
 
 ---
@@ -127,7 +128,8 @@ SHAP was used to:
 
 
 ### SHAP Force Plot (Single Customer)
-<img width="681" height="348" alt="Screenshot 2026-02-17 111502" src="https://github.com/user-attachments/assets/9944217e-b5c8-4071-a173-0bbac745ad84" />
+<img width="597" height="302" alt="Screenshot 2026-02-17 111538" src="https://github.com/user-attachments/assets/e838214c-10c8-4b9b-aa33-e1b0b8aab546" />
+
 
 
 
