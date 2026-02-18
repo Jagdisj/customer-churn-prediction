@@ -136,7 +136,7 @@ Real-time churn prediction API
 
 This project demonstrates an end-to-end machine learning pipeline for solving a real-world business problem. The model achieves strong predictive performance and provides actionable insights for reducing customer churn in telecom operations.
 
-## # Telecom Customer Churn Prediction
+##   Telecom Customer Churn Prediction
 
 🚀 **Live Demo:** https://customerchun.streamlit.app/
 
