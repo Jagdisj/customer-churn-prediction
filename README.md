@@ -111,7 +111,7 @@ High ROC-AUC indicates strong ranking capability for risk scoring applications.
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/Jagdisj/customer-churn-prediction
 cd customer-churn-prediction
 
 ### 2️⃣ Install Dependencies
